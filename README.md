@@ -26,8 +26,8 @@
 12. [Agradecimientos](#agradecimientos)
 13. [Conclusiones](#conclusiones)
 
-## Introducción
-Este documento ofrece una guía detallada sobre el uso de la plataforma Spatial en el contexto de un proyecto de museo virtual interactivo. El objetivo principal es utilizar Spatial para diseñar un entorno inmersivo que permita a los visitantes explorar obras de arte y artefactos históricos de manera interactiva.
+## IntroducciónL
+La documentacion ofrece una guía detallada sobre el uso de la plataforma Spatial en el contexto de un proyecto de museo virtual interactivo. El objetivo principal es utilizar Spatial para diseñar un entorno inmersivo que permita a los visitantes explorar obras de arte y artefactos históricos de manera interactiva.
 
 ## Qué es Spatial
 Spatial es una plataforma de realidad mixta que permite a las personas colaborar y crear en entornos virtuales compartidos desde diferentes ubicaciones. Con tecnología de realidad aumentada y virtual, Spatial ofrece experiencias inmersivas de colaboración, donde los usuarios pueden interactuar con contenido digital en el mundo real a través de diversos dispositivos, como gafas AR, teléfonos inteligentes y computadoras. Es una herramienta ideal para trabajar juntos en proyectos o socializar en un entorno digital dinámico y accesible.
@@ -62,7 +62,7 @@ El objetivo principal del proyecto es desarrollar y evaluar una plataforma de mu
 - Diseñar interfaces y experiencias inclusivas que sean accesibles para personas con discapacidades auditivas y visuales.
 - Evaluar la efectividad de la plataforma en términos de participación del usuario, accesibilidad y potencial educativo.
 
-## Resultados Finales
+## Fase beta
 - Se desarrolló un modelo de un museo de 2 pisos, con pasillos, escaleras y cuartos.
 - En el museo se pueden encontrar pinturas alusivas al tema cultural que se nos asignó, que fue el cuento Otomí de “El tejón”.
 - El museo fue decorado con objetos predeterminados de la plataforma, en cuestion de la mueblería y para los marcos de las pinturas.
@@ -82,9 +82,6 @@ El objetivo principal del proyecto es desarrollar y evaluar una plataforma de mu
 4. **Problemas con el sonido:** No se podía configurar para que fuera específico de cada habitación, lo que resultaba en que se escuchara desde cualquier ubicación en el espacio.
 5. **Desafíos al trasladar el proyecto a Unity:** Especialmente con respecto a la compatibilidad de versiones.
 
-## Futuras Etapas
-Se planeaba recrear el mapa en Unity, donde podrían aportar mucho más los programadores logrando hacer más interactivo el mapa y lograr mejores efectos como resultado en cada espacio.
-
 ## Recomendaciones
 - Investigar cómo trabajar todos al mismo tiempo en Unity, hay una función que lo hace llamada “Collaborate”. Es una función de la versión gratuita de Unity, y permite hasta 3 personas.
 - Leer detenidamente la documentación, ya que te enseña cómo usar la herramienta Spatial de manera más rápida y efectiva.
@@ -96,5 +93,7 @@ Expresamos nuestro más sincero agradecimiento a todas las personas e institucio
 - Christian Jonathan Ángel Rueda, nuestro Jefe de Investigación.
 - A nuestro valioso equipo de trabajo.
 
-## Conclusiones
+## Observaciónes futuras
+Se planeaba recrear el mapa en Unity, donde podrían aportar mucho más los programadores logrando hacer más interactivo el mapa y lograr mejores efectos como resultado en cada espacio.
+
 El proyecto de museo virtual interactivo utilizando Spatial ha sido una experiencia desafiante pero gratificante. A pesar de los obstáculos técnicos encontrados, logramos crear un entorno inmersivo donde los usuarios pueden explorar arte y cultura de manera interactiva. La colaboración remota y las herramientas de diseño de Spatial fueron fundamentales en este proceso. Aunque enfrentamos dificultades, el proyecto demuestra el potencial de la realidad mixta en la promoción cultural y la educación. En resumen, Spatial ofrece una plataforma poderosa para crear experiencias virtuales atractivas y accesibles.
