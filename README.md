@@ -1,17 +1,14 @@
 # “Reimaginando la Experiencia Museística: Estrategias Inclusivas y Ludificación en Entornos Inmersivos de Realidad Mixta para la Promoción Cultural”
 
+# Spatial
+## EQUIPO DE DESARROLLO
+
 -  Jorge Luis Melchor Rodriguez
 -  Jorge Luis Medellin Martinez
 -  Abraham Mendoza Guerrero
 
 # Development
 
-# Spatial
-
-## Escrito por:
-Jorge Luis Melchor Rodríguez  
-Abraham Mendoza Guerrero  
-Jorge Luis Medellín Martínez
 
 ## Índice
 
