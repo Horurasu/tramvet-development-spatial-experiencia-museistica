@@ -3,9 +3,9 @@
 # Spatial
 ## EQUIPO DE DESARROLLO
 
--  Jorge Luis Melchor Rodriguez
 -  Jorge Luis Medellin Martinez
--  Abraham Mendoza Guerrero
+-  Erick Fabrizzio Pineda Herrera
+-  Amadeo Rivera Herrera
 
 # Development
 
